@@ -10,7 +10,7 @@ NAME=braitenberg
 RECIPE_REPOSITORY=duckietown/lx-recipe-braitenberg
 
 # - branch of RECIPE_REPOSITORY containing the recipe
-RECIPE_BRANCH=ente-ros2
+RECIPE_BRANCH=DTSW-8530-remove-novnc-from-braitenberg-lx
 
 # - location of the recipe inside the RECIPE_REPOSITORY/RECIPE_BRANCH above
 RECIPE_LOCATION=
